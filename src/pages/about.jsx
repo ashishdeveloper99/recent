@@ -38,6 +38,7 @@ const About = ({ preview }) => {
               <div className="flex items-center md:mt-6">
                 <a
                   href="https://drive.google.com/file/d/1dYOYta5v9BOWmPe8MZuIG3jKAZg3C0dr/view?usp=sharing"
+                  
                   className="flex items-center mr-4 text-fore-primary border-2 border-accent w-fit px-4 py-1 rounded cursor-pointer hover:text-accent transition-colors"
                 >
                   <span className="mr-2">
