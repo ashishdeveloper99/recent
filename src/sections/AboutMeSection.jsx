@@ -12,7 +12,7 @@ const AboutMeSection = () => {
       Hi, I am a like to developed WebApps, APIs, Desktop Apps mostly using Java and Spring Framework. 
       I believe in Project based Learning. and real life implemention of Projects. as fresher i look for
       opportunity to work as a Java Stack. I like to become a full stack developer.
-      currently I try my hands on React and Docker.</p>
+      currently I try my hands on JAVAscript,React and Docker.</p>
       <p className="text-fore-primary mb-8">
           <b>Please mail me if you want to collabrate with me.  or Hire me </b>
       </p>
