@@ -9,16 +9,12 @@ const AboutMeSection = () => {
         About Me
       </h3>
       <p className="text-fore-primary mb-8 ">
-      Hi, I am a recently completed my . 
-      I have developed WebApps, APIs, Desktop Apps and Android Apps and 
-      I want to improve on Web technologies such as .NET Core  or  Node.js and React..
-      </p>
+      Hi, I am a like to developed WebApps, APIs, Desktop Apps mostly using Java and Spring Framework. 
+      I believe in Project based Learning. and real life implemention of Projects. as fresher i look for
+      opportunity to work as a Java Stack. I like to become a full stack developer.
+      currently I try my hands on React and Docker.</p>
       <p className="text-fore-primary mb-8">
-        Coming from a background from Commerce , I
-        quickly found that writing code was a bit like putting the secret sauce
-        on a vocal mix; there&apos;s not necessarily a single way to do it, and
-        the person behind the keyboard has the power to put their style into a
-        great solution.
+          <b>Please mail me if you want to collabrate with me.  or Hire me </b>
       </p>
       <Link href="/about">
         <a className="flex items-center text-accent underline underline-offset-2 cursor-pointer hover:opacity-70 transition hover:translate-x-1 w-fit">

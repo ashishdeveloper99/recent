@@ -115,11 +115,13 @@ const AboutMeSection = ()=>{
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                 className: "text-fore-primary mb-8 ",
-                children: "Hi, I am a recently completed my . I have developed WebApps, APIs, Desktop Apps and Android Apps and I want to improve on Web technologies such as .NET Core  or  Node.js and React.."
+                children: "Hi, I am a like to developed WebApps, APIs, Desktop Apps mostly using Java and Spring Framework. I believe in Project based Learning. and real life implemention of Projects. as fresher i look for opportunity to work as a Java Stack. I like to become a full stack developer. currently I try my hands on React and Docker."
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                 className: "text-fore-primary mb-8",
-                children: "Coming from a background from Commerce , I quickly found that writing code was a bit like putting the secret sauce on a vocal mix; there's not necessarily a single way to do it, and the person behind the keyboard has the power to put their style into a great solution."
+                children: /*#__PURE__*/ jsx_runtime_.jsx("b", {
+                    children: "Please mail me if you want to collabrate with me.  or Hire me "
+                })
             }),
             /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
                 href: "/about",
