@@ -80,8 +80,21 @@ const About = ({ preview  })=>{
                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                             children: "I love solving problems!"
                                         }),
+                                        "My name is Ashish.",
                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                            children: "My name is Ashish."
+                                            children: "I am interested in applying for the Java Developer position. This role is an exciting opportunity and a challenge that I am eager to take on! I believe that my experience in the field would be a useful addition to your team. I would love to work with you and help Crist reach new heights."
+                                        }),
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
+                                            children: "Apart from my strong motivation and work ethic, I can offer your company my proven expertise and experience in the field."
+                                        }),
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
+                                            children: "I am certain my skills and qualifications will be of great use to your team.Should you decide to move forward with an interview, please reach out to me! I would be happy to answer any questions you may have and discuss how I can help your company."
+                                        }),
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
+                                            children: "I am experienced in Java, Scala, and Node.js."
+                                        }),
+                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
+                                            children: "I am open to relocating for the right job. However, I would appreciate the chance to discuss my experience and qualifications over the phone and prove that I am suitable for this role."
                                         }),
                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                             children: "Get in touch to create something awesome together!"
