@@ -12,7 +12,7 @@ const ThemeChanger = ({ styles }) => {
   return (
     <button
       aria-label={
-        resolvedTheme === 'dark' ? 'Activate Dark Mode' :  'Activate Light Mode'
+        resolvedTheme === 'light' ? 'Activate Dark Mode' :  'Activate Light Mode'
       }
       title={
         resolvedTheme === 'dark' ? 'Activate Dark Mode' : 'Activate Light Mode'
