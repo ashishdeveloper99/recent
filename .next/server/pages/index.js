@@ -115,11 +115,11 @@ const AboutMeSection = ()=>{
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                 className: "text-fore-primary mb-8 ",
-                children: "Hi, I am a recently completed my . I have developed WebApps, APIs, Desktop Apps and Android Apps and I want to improve on Web technologies such as .NET Core  or  Node.js and React.."
+                children: "Hi, I am a recently completed my . I have developed Web Apps, APIs.I want to improve on Web technologies such as JAVA, Spring, Servlet, Java Server Page(JSP), Mysql, DB.."
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                 className: "text-fore-primary mb-8",
-                children: "Coming from a background from Commerce, I quickly found that writing code was a bit like putting the secret sauce on a vocal mix; there's"
+                children: "Coming from a background from Commerce, I quickly found that writing code was a bit like putting the  there's  Lots Of technologies i Work On."
             }),
             /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
                 href: "/about",
