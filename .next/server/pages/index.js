@@ -119,7 +119,7 @@ const AboutMeSection = ()=>{
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                 className: "text-fore-primary mb-8",
-                children: "Coming from a background from Commerce , I quickly found that writing code was a bit like putting the secret sauce on a vocal mix; there's not necessarily a single way to do it, and the person behind the keyboard has the power to put their style into a great solution."
+                children: "Coming from a background from Commerce, I quickly found that writing code was a bit like putting the secret sauce on a vocal mix; there's"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
                 href: "/about",
