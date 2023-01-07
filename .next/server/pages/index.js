@@ -113,6 +113,20 @@ const AboutMeSection = ()=>{
                 className: "text-2xl md:text-3xl mb-8 text-fore-primary border-b border-b-slate-200 dark:border-b-gray-600 w-fit",
                 children: "About Me"
             }),
+            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                className: "text-fore-primary mb-8 ",
+                children: [
+                    "If you are intersted in My Video Introduction Please ",
+                    /*#__PURE__*/ jsx_runtime_.jsx("a", {
+                        href: "https://youtu.be/3MJh2Dm9IgQ",
+                        children: /*#__PURE__*/ jsx_runtime_.jsx("b", {
+                            children: /*#__PURE__*/ jsx_runtime_.jsx("i", {
+                                children: "click here"
+                            })
+                        })
+                    })
+                ]
+            }),
             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                 className: "text-fore-primary mb-8 ",
                 children: "Hi, I am a recently completed my . I have developed Web Apps, APIs.I want to improve on Web technologies such as JAVA, Spring, Servlet, Java Server Page(JSP), Mysql, DB.."
@@ -353,7 +367,7 @@ const ContactSection = ()=>{
                         children: /*#__PURE__*/ jsx_runtime_.jsx(icons/* LetterIcon */.gv, {})
                     }),
                     " ",
-                    "Get in touch"
+                    "Get in touch / Mail me"
                 ]
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("p", {
@@ -363,7 +377,7 @@ const ContactSection = ()=>{
             /*#__PURE__*/ jsx_runtime_.jsx("a", {
                 href: "mailto:ashishdhomne@hotmail.com",
                 className: "text-white px-16 py-3.5 mt-8 text-xl bg-gradient-to-r from-accent to-violet-400 rounded hover:from-pink-500 hover:to-yellow-500",
-                children: "Say hello"
+                children: "Contact Me"
             })
         ]
     });

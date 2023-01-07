@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/2cW0_9yip0HYrybCgeDKe/_buildManifest.js",
-    "static/2cW0_9yip0HYrybCgeDKe/_ssgManifest.js"
+    "static/MOmjyDfMArMkprhl8jJ52/_buildManifest.js",
+    "static/MOmjyDfMArMkprhl8jJ52/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -18,8 +18,8 @@
       "static/chunks/838-a8ffa8cdc88c408b.js",
       "static/chunks/675-b73f41980c39ec6a.js",
       "static/chunks/54-0e8d0981a6bb9a4d.js",
-      "static/chunks/41-9bb35647fa80d15f.js",
-      "static/chunks/pages/index-70a2651f6012228f.js"
+      "static/chunks/41-720990305f45e4a9.js",
+      "static/chunks/pages/index-564b95deadfadb49.js"
     ],
     "/404": [
       "static/chunks/webpack-69bfa6990bb9e155.js",
@@ -49,7 +49,7 @@
       "static/chunks/664-6863c832d33388a7.js",
       "static/chunks/675-b73f41980c39ec6a.js",
       "static/chunks/54-0e8d0981a6bb9a4d.js",
-      "static/chunks/pages/about-21a9da75aa2901ee.js"
+      "static/chunks/pages/about-df806aa1af4c7d9b.js"
     ],
     "/posts": [
       "static/chunks/webpack-69bfa6990bb9e155.js",
@@ -58,7 +58,7 @@
       "static/chunks/664-6863c832d33388a7.js",
       "static/chunks/838-a8ffa8cdc88c408b.js",
       "static/chunks/54-0e8d0981a6bb9a4d.js",
-      "static/chunks/41-9bb35647fa80d15f.js",
+      "static/chunks/41-720990305f45e4a9.js",
       "static/chunks/pages/posts-476c7f5b0da85585.js"
     ],
     "/posts/[slug]": [
@@ -70,7 +70,7 @@
       "static/chunks/675-b73f41980c39ec6a.js",
       "static/chunks/985-8272ead7160608fd.js",
       "static/chunks/54-0e8d0981a6bb9a4d.js",
-      "static/chunks/546-45e4853a5fb97962.js",
+      "static/chunks/546-c428888a108b9714.js",
       "static/css/57118efa23d85995.css",
       "static/chunks/pages/posts/[slug]-8205f6cfaa1fc8a3.js"
     ],
@@ -81,7 +81,7 @@
       "static/chunks/664-6863c832d33388a7.js",
       "static/chunks/838-a8ffa8cdc88c408b.js",
       "static/chunks/54-0e8d0981a6bb9a4d.js",
-      "static/chunks/41-9bb35647fa80d15f.js",
+      "static/chunks/41-720990305f45e4a9.js",
       "static/chunks/pages/works-daf856ebc23d19fc.js"
     ],
     "/works/[slug]": [
@@ -93,7 +93,7 @@
       "static/chunks/675-b73f41980c39ec6a.js",
       "static/chunks/985-8272ead7160608fd.js",
       "static/chunks/54-0e8d0981a6bb9a4d.js",
-      "static/chunks/546-45e4853a5fb97962.js",
+      "static/chunks/546-c428888a108b9714.js",
       "static/css/57118efa23d85995.css",
       "static/chunks/pages/works/[slug]-a2bc210eb873aeb2.js"
     ]

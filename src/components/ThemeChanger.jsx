@@ -15,7 +15,7 @@ const ThemeChanger = ({ styles }) => {
         resolvedTheme === 'light' ? 'Activate Dark Mode' :  'Activate Light Mode'
       }
       title={
-        resolvedTheme === 'dark' ? 'Activate Dark Mode' : 'Activate Light Mode'
+        resolvedTheme === 'dark' ? 'Activate Light Mode' : 'Activate Dark Mode' //correct code
       }
       onClick={() => {
         setTheme(resolvedTheme === 'dark' ? 'light' : 'dark')

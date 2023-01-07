@@ -170,7 +170,8 @@ const ThemeChanger = ({ styles  })=>{
     if (!mounted) return null;
     return /*#__PURE__*/ jsx_runtime_.jsx("button", {
         "aria-label": resolvedTheme === "light" ? "Activate Dark Mode" : "Activate Light Mode",
-        title: resolvedTheme === "dark" ? "Activate Dark Mode" : "Activate Light Mode",
+        title: resolvedTheme === "dark" ? "Activate Light Mode" : "Activate Dark Mode" //correct code
+        ,
         onClick: ()=>{
             setTheme(resolvedTheme === "dark" ? "light" : "dark");
         },
