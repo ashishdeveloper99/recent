@@ -6,9 +6,9 @@
   "/api/exit-preview": "pages/api/exit-preview.js",
   "/api/preview": "pages/api/preview.js",
   "/posts/[slug]": "pages/posts/[slug].js",
-  "/posts": "pages/posts.js",
-  "/about": "pages/about.js",
-  "/": "pages/index.js",
   "/works/[slug]": "pages/works/[slug].js",
-  "/works": "pages/works.js"
+  "/works": "pages/works.js",
+  "/posts": "pages/posts.js",
+  "/": "pages/index.js",
+  "/about": "pages/about.js"
 }
