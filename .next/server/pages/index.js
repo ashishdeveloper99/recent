@@ -115,7 +115,7 @@ const AboutMeSection = ()=>{
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                 className: "text-fore-primary mb-8 ",
-                children: "Hi, I am a recently completed my . I have developed Web Apps, APIs.I want to improve on Web technologies such as JAVA, Spring, Servlet, Java Server Page(JSP), Mysql, DB.."
+                children: "Hi, I have developed Web Apps, APIs.I want to improve on Web technologies such as JAVA, Spring, Servlet, Java Server Page(JSP), Mysql, DB.."
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                 className: "text-fore-primary mb-8",
