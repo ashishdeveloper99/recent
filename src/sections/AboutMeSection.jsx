@@ -9,11 +9,8 @@ const AboutMeSection = () => {
         About Me
       </h3>
       {/* <p className="text-fore-primary mb-8 ">If you are intersted in My Video Introduction Please <a href='https://youtu.be/3MJh2Dm9IgQ'><b><i>click here</i></b></a></p> */}
-
-
-
       <p className="text-fore-primary mb-8 ">
-      Hi, I am a recently completed my . 
+      Hi,
       I have developed Web Apps, APIs.I want to improve on Web technologies such as JAVA, Spring, Servlet, Java Server Page(JSP), Mysql, DB..
       </p>
       <p className="text-fore-primary mb-8">
