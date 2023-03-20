@@ -188,14 +188,6 @@ const devIcons = [
         name: "JavaScript"
     },
     {
-        iconName: "devicon-react-original",
-        name: "React.js"
-    },
-    {
-        iconName: "devicon-npm-original-wordmark",
-        name: "NPM"
-    },
-    {
         iconName: "devicon-tailwindcss-plain",
         name: "Tailwind CSS"
     },

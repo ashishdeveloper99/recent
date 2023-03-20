@@ -10,8 +10,7 @@ const AboutMeSection = () => {
       </h3>
       {/* <p className="text-fore-primary mb-8 ">If you are intersted in My Video Introduction Please <a href='https://youtu.be/3MJh2Dm9IgQ'><b><i>click here</i></b></a></p> */}
       <p className="text-fore-primary mb-8 ">
-      Hi, I 
-      I have developed Web Apps, APIs.I want to improve on Web technologies such as JAVA, Spring, Servlet, Java Server Page(JSP), Mysql, DB..
+      Hi, I have developed Web Apps, APIs.I want to improve on Web technologies such as JAVA, Spring, Servlet, Java Server Page(JSP), Mysql, DB..
       </p>
       <p className="text-fore-primary mb-8">
         Coming from a background from Commerce, I quickly found that writing code was a bit like putting the  there&apos;s  Lots Of technologies i Work On.

@@ -7,8 +7,6 @@ export const devIcons = [
   { iconName: 'devicon-css3-plain', name: 'CSS' },
   { iconName: 'devicon-bootstrap-plain', name: 'BOOTSTRAP' },
   { iconName: 'devicon-javascript-plain', name: 'JavaScript' },
-  { iconName: 'devicon-react-original', name: 'React.js' },
-  { iconName: 'devicon-npm-original-wordmark', name: 'NPM' },
   { iconName: 'devicon-tailwindcss-plain', name: 'Tailwind CSS' },
   { iconName: 'devicon-digitalocean-plain', name: 'Digitalocean' },
   { iconName: 'devicon-azure-plain', name: 'azure' },
