@@ -2,6 +2,8 @@ export const devIcons = [
 
   { iconName: 'devicon-java-plain', name: 'Java' },
   { iconName: 'devicon-spring-plain', name: 'SpringBoot' },
+  { iconName: 'devicon-php-plain', name: 'PHP' },
+
   { iconName: 'devicon-mysql-plain', name: 'Mysql' },
   { iconName: 'devicon-html5-plain', name: 'HTML' },
   { iconName: 'devicon-css3-plain', name: 'CSS' },

@@ -65,7 +65,7 @@ const IntroSection = ()=>{
                         children: [
                             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("a", {
                                 // upload your resume either on Cosmic or in the public file of this directory
-                                href: "https://drive.google.com/file/d/1dYOYta5v9BOWmPe8MZuIG3jKAZg3C0dr/view?usp=sharing",
+                                href: "https://drive.google.com/file/d/1N9qCIlF4njS6tqRxzWDfTcqY97Xea4Ru/view?usp=sharing",
                                 className: "flex items-center mr-4 text-fore-primary border-2 border-accent w-fit px-4 py-1 rounded cursor-pointer hover:text-accent transition-colors",
                                 children: [
                                     /*#__PURE__*/ jsx_runtime_.jsx("span", {
@@ -115,11 +115,11 @@ const AboutMeSection = ()=>{
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                 className: "text-fore-primary mb-8 ",
-                children: "Hi, I have developed Web Apps, APIs.I want to improve on Web technologies such as JAVA, Spring, Servlet, Java Server Page(JSP), Mysql, DB.."
+                children: "Hi, I passionate about developing Web Apps, APIs. Currently I am work with  JAVA, Springboot, Mysql, PHP."
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                 className: "text-fore-primary mb-8",
-                children: "Coming from a background from Commerce, I quickly found that writing code was a bit like putting the  there's  Lots Of technologies i Work On."
+                children: "Coming from a background from backoffice jobs and desk jobs, Later in life I found that writing code passionate me. so I look for junior develper or Internship opprtunites."
             }),
             /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
                 href: "/about",
@@ -166,6 +166,10 @@ const devIcons = [
     {
         iconName: "devicon-spring-plain",
         name: "SpringBoot"
+    },
+    {
+        iconName: "devicon-php-plain",
+        name: "PHP"
     },
     {
         iconName: "devicon-mysql-plain",
@@ -390,7 +394,7 @@ const Index = ({ allPosts , allWorks , preview  })=>{
         children: [
             /*#__PURE__*/ jsx_runtime_.jsx(Meta/* PageMeta */.Vj, {
                 title: "Ashishd.online",
-                description: "Developer Portfolio Template built with Next.js and Cosmic"
+                description: "Developer Portfolio"
             }),
             /*#__PURE__*/ (0,jsx_runtime_.jsxs)(Layout/* default */.Z, {
                 preview: preview,
@@ -410,7 +414,6 @@ const Index = ({ allPosts , allWorks , preview  })=>{
         ]
     });
 };
-// Below, we are calling the function in our cosmic.js file, and getting the posts from our Cosmic bucket. Since we are fetching from a single function in our cosmic.js file, we state whether we are viewing a preview of our page, what kind of posts we want (since we have blog posts and works posts), and the amount of posts we want to grab. In this case on the home page, I specified a limit of 3 posts.
 async function getStaticProps({ preview =null  }) {
     const allPosts = await (0,cosmic/* getAllPosts */.Bd)(preview, "posts", 3) || [];
     const allWorks = await (0,cosmic/* getAllPosts */.Bd)(preview, "works", 3) || [];

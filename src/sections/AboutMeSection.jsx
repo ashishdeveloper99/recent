@@ -10,10 +10,10 @@ const AboutMeSection = () => {
       </h3>
       {/* <p className="text-fore-primary mb-8 ">If you are intersted in My Video Introduction Please <a href='https://youtu.be/3MJh2Dm9IgQ'><b><i>click here</i></b></a></p> */}
       <p className="text-fore-primary mb-8 ">
-      Hi, I have developed Web Apps, APIs.I want to improve on Web technologies such as JAVA, Spring, Servlet, Java Server Page(JSP), Mysql, DB..
+      Hi, I passionate about developing Web Apps, APIs. Currently I am work with  JAVA, Springboot, Mysql, PHP.
       </p>
       <p className="text-fore-primary mb-8">
-        Coming from a background from Commerce, I quickly found that writing code was a bit like putting the  there&apos;s  Lots Of technologies i Work On.
+        Coming from a background from backoffice jobs and desk jobs, Later in life I found that writing code passionate me. so I look for junior develper or Internship opprtunites.
       </p>
       <Link href="/about">
         <a className="flex items-center text-accent underline underline-offset-2 cursor-pointer hover:opacity-70 transition hover:translate-x-1 w-fit">
