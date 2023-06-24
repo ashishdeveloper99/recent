@@ -10,7 +10,7 @@ const AboutMeSection = () => {
       </h3>
       {/* <p className="text-fore-primary mb-8 ">If you are intersted in My Video Introduction Please <a href='https://youtu.be/3MJh2Dm9IgQ'><b><i>click here</i></b></a></p> */}
       <p className="text-fore-primary mb-8 ">
-      Hi, I passionate about developing Web Apps, APIs. Currently I am work with  JAVA, Springboot, Mysql, PHP.
+      Hi, I passionate about developing Web Apps, APIs. Currently I am work with codeigniter and in spare time Laravel and on Javascript frameworks such as React, inertiajs etc.
       </p>
       <p className="text-fore-primary mb-8">
         Coming from a background from backoffice jobs and desk jobs, Later in life I found that writing code passionate me. so I look for junior develper or Internship opprtunites.

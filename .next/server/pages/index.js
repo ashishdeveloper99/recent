@@ -65,7 +65,7 @@ const IntroSection = ()=>{
                         children: [
                             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("a", {
                                 // upload your resume either on Cosmic or in the public file of this directory
-                                href: "https://drive.google.com/file/d/1N9qCIlF4njS6tqRxzWDfTcqY97Xea4Ru/view?usp=sharing",
+                                href: " ",
                                 className: "flex items-center mr-4 text-fore-primary border-2 border-accent w-fit px-4 py-1 rounded cursor-pointer hover:text-accent transition-colors",
                                 children: [
                                     /*#__PURE__*/ jsx_runtime_.jsx("span", {
@@ -115,7 +115,7 @@ const AboutMeSection = ()=>{
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                 className: "text-fore-primary mb-8 ",
-                children: "Hi, I passionate about developing Web Apps, APIs. Currently I am work with  JAVA, Springboot, Mysql, PHP."
+                children: "Hi, I passionate about developing Web Apps, APIs. Currently I am work with codeigniter and in spare time Laravel and on Javascript frameworks such as React, inertiajs etc."
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                 className: "text-fore-primary mb-8",
@@ -160,12 +160,12 @@ const DevIcon = ({ iconName , name  })=>{
 ;// CONCATENATED MODULE: ./src/configs/dev-icons.js
 const devIcons = [
     {
-        iconName: "devicon-java-plain",
-        name: "Java"
+        iconName: "devicon-html5-plain",
+        name: "HTML"
     },
     {
-        iconName: "devicon-spring-plain",
-        name: "SpringBoot"
+        iconName: "devicon-css3-plain",
+        name: "CSS"
     },
     {
         iconName: "devicon-php-plain",
@@ -176,20 +176,24 @@ const devIcons = [
         name: "Mysql"
     },
     {
-        iconName: "devicon-html5-plain",
-        name: "HTML"
-    },
-    {
-        iconName: "devicon-css3-plain",
-        name: "CSS"
-    },
-    {
         iconName: "devicon-bootstrap-plain",
         name: "BOOTSTRAP"
     },
     {
         iconName: "devicon-javascript-plain",
         name: "JavaScript"
+    },
+    {
+        iconName: "devicon-codeigniter-plain",
+        name: "Codeigniter"
+    },
+    {
+        iconName: "devicon-laravel-plain",
+        name: "Laravel"
+    },
+    {
+        iconName: "devicon-react-plain",
+        name: "React"
     },
     {
         iconName: "devicon-tailwindcss-plain",
@@ -200,10 +204,6 @@ const devIcons = [
         name: "Digitalocean"
     },
     {
-        iconName: "devicon-azure-plain",
-        name: "azure"
-    },
-    {
         iconName: "devicon-git-plain",
         name: "Git"
     },
@@ -212,16 +212,12 @@ const devIcons = [
         name: "Github"
     },
     {
-        iconName: "devicon-trello-plain",
-        name: "Trello"
-    },
-    {
         iconName: "devicon-vscode-plain",
         name: "vscode"
     },
     {
-        iconName: "devicon-intellij-plain",
-        name: "intellij IDE"
+        iconName: "devicon-phpstorm-plain-wordmark",
+        name: "Phpstorm"
     },
     {
         iconName: "devicon-linux-plain",
@@ -232,12 +228,12 @@ const devIcons = [
         name: "ubuntu"
     },
     {
-        iconName: "devicon-tomcat-line",
-        name: "Tomcat"
-    },
-    {
         iconName: "devicon-nginx-original",
         name: "Nginx"
+    },
+    {
+        iconName: "devicon-apache-plain",
+        name: "Apache"
     }
 ];
 

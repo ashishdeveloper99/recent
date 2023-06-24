@@ -14,7 +14,7 @@ const IntroSection = () => {
         <div className="flex items-center">
           <a
             // upload your resume either on Cosmic or in the public file of this directory
-            href="https://drive.google.com/file/d/1N9qCIlF4njS6tqRxzWDfTcqY97Xea4Ru/view?usp=sharing"
+            href=" "
             className="flex items-center mr-4 text-fore-primary border-2 border-accent w-fit px-4 py-1 rounded cursor-pointer hover:text-accent transition-colors"
           >
             <span className="mr-2">
