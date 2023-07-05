@@ -160,30 +160,6 @@ const DevIcon = ({ iconName , name  })=>{
 ;// CONCATENATED MODULE: ./src/configs/dev-icons.js
 const devIcons = [
     {
-        iconName: "devicon-html5-plain",
-        name: "HTML"
-    },
-    {
-        iconName: "devicon-css3-plain",
-        name: "CSS"
-    },
-    {
-        iconName: "devicon-php-plain",
-        name: "PHP"
-    },
-    {
-        iconName: "devicon-mysql-plain",
-        name: "Mysql"
-    },
-    {
-        iconName: "devicon-bootstrap-plain",
-        name: "BOOTSTRAP"
-    },
-    {
-        iconName: "devicon-javascript-plain",
-        name: "JavaScript"
-    },
-    {
         iconName: "devicon-codeigniter-plain",
         name: "Codeigniter"
     },
@@ -192,12 +168,36 @@ const devIcons = [
         name: "Laravel"
     },
     {
-        iconName: "devicon-react-plain",
-        name: "React"
+        iconName: "devicon-php-plain",
+        name: "PHP"
+    },
+    {
+        iconName: "devicon-html5-plain",
+        name: "HTML"
+    },
+    {
+        iconName: "devicon-css3-plain",
+        name: "CSS"
     },
     {
         iconName: "devicon-tailwindcss-plain",
         name: "Tailwind CSS"
+    },
+    {
+        iconName: "devicon-mysql-plain",
+        name: "Mysql"
+    },
+    {
+        iconName: "devicon-javascript-plain",
+        name: "JavaScript"
+    },
+    {
+        iconName: "devicon-bootstrap-plain",
+        name: "BOOTSTRAP"
+    },
+    {
+        iconName: "devicon-react-plain",
+        name: "React"
     },
     {
         iconName: "devicon-digitalocean-plain",

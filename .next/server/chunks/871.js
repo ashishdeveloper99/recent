@@ -81,6 +81,10 @@ const routes = [
     {
         path: "/about",
         label: "About"
+    },
+    {
+        path: "https://mydevportfolio.tech",
+        label: "日本語"
     }
 ];
 const MenuItems = ()=>{
