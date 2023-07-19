@@ -20,10 +20,7 @@ export const routes = [
     label: 'About',
   },
 
-  {
-    path: 'https://mydevportfolio.tech',
-    label: '日本語',
-  },
+
  
 ]
 

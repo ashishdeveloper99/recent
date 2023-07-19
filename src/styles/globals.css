@@ -15,7 +15,7 @@
   --color-fore-secondary: hsla(240, 4%, 16%);
   --color-fore-subtle: hsla(218, 17%, 35%);
 
-  --color-back-primary: hsla(240, 5%, 96%);
+  --color-back-primary: rgba(237, 237, 243, 0.918);
   --color-back-secondary: hsla(240, 6%, 93%);
   --color-back-subtle: hsla(210, 38%, 92%);
 
