@@ -110,16 +110,22 @@ const AboutMeSection = ()=>{
         className: "mt-24",
         children: [
             /*#__PURE__*/ jsx_runtime_.jsx("h3", {
-                className: "text-2xl md:text-3xl mb-8 text-fore-primary border-b border-b-slate-200 dark:border-b-gray-600 w-fit",
+                className: "text-2xl md:text-3xl mb-8 text-slate-700 border-b border-b-slate-200 dark:border-b-gray-600 w-fit",
                 children: "About Me"
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                 className: "text-fore-primary mb-8 ",
                 children: "Hi, I passionate about developing Web Apps, APIs. Currently I am work with codeigniter and in spare time Laravel and on Javascript frameworks such as React, inertiajs etc."
             }),
-            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
                 className: "text-fore-primary mb-8",
-                children: "Coming from a background from backoffice jobs and desk jobs, Later in life I found that writing code passionate me. so I look for junior develper or Internship opprtunites."
+                children: [
+                    "Coming from a background from backoffice jobs and desk jobs, Later in life I found that writing code passionate me. so I look for junior develper or Internship opprtunites. currently i m working Mostly with Codeigniter Framework.  but ",
+                    /*#__PURE__*/ jsx_runtime_.jsx("span", {
+                        className: "text-slate-600",
+                        children: "I can build App on Laravel whatever i can develop on Codeigniter."
+                    })
+                ]
             }),
             /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
                 href: "/about",
@@ -180,6 +186,10 @@ const devIcons = [
         name: "CSS"
     },
     {
+        iconName: "devicon-bootstrap-plain",
+        name: "BOOTSTRAP"
+    },
+    {
         iconName: "devicon-tailwindcss-plain",
         name: "Tailwind CSS"
     },
@@ -192,16 +202,12 @@ const devIcons = [
         name: "JavaScript"
     },
     {
-        iconName: "devicon-bootstrap-plain",
-        name: "BOOTSTRAP"
-    },
-    {
         iconName: "devicon-react-plain",
         name: "React"
     },
     {
-        iconName: "devicon-digitalocean-plain",
-        name: "Digitalocean"
+        iconName: "devicon-nextjs-plain",
+        name: "Nexjs"
     },
     {
         iconName: "devicon-git-plain",
@@ -216,24 +222,12 @@ const devIcons = [
         name: "vscode"
     },
     {
-        iconName: "devicon-phpstorm-plain-wordmark",
-        name: "Phpstorm"
+        iconName: "devicon-digitalocean-plain",
+        name: "Digitalocean"
     },
     {
-        iconName: "devicon-linux-plain",
-        name: "Linux"
-    },
-    {
-        iconName: "devicon-ubuntu-plain",
-        name: "ubuntu"
-    },
-    {
-        iconName: "devicon-nginx-original",
-        name: "Nginx"
-    },
-    {
-        iconName: "devicon-apache-plain",
-        name: "Apache"
+        iconName: "devicon-docker-plain",
+        name: "Docker"
     }
 ];
 
