@@ -10,10 +10,10 @@ export const devIcons = [
   { iconName: 'devicon-mysql-plain', name: 'Mysql' },
   { iconName: 'devicon-javascript-plain', name: 'JavaScript' },
   { iconName: 'devicon-react-plain', name: 'React' },
-  { iconName: 'devicon-nextjs-plain', name: 'Nexjs' },
+  { iconName: 'devicon-vuejs-plain', name: 'Vue' },
   { iconName: 'devicon-git-plain', name: 'Git' },
   { iconName: 'devicon-github-plain', name: 'Github' },
-  { iconName: 'devicon-vscode-plain', name: 'vscode' },
   { iconName: 'devicon-digitalocean-plain', name: 'Digitalocean' },
+  { iconName: 'devicon-ubuntu-plain', name: 'VPS/Ubuntu' },
   { iconName: 'devicon-docker-plain', name: 'Docker' },
 ]

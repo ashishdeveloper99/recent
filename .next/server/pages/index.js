@@ -206,8 +206,8 @@ const devIcons = [
         name: "React"
     },
     {
-        iconName: "devicon-nextjs-plain",
-        name: "Nexjs"
+        iconName: "devicon-vuejs-plain",
+        name: "Vue"
     },
     {
         iconName: "devicon-git-plain",
@@ -218,12 +218,12 @@ const devIcons = [
         name: "Github"
     },
     {
-        iconName: "devicon-vscode-plain",
-        name: "vscode"
-    },
-    {
         iconName: "devicon-digitalocean-plain",
         name: "Digitalocean"
+    },
+    {
+        iconName: "devicon-ubuntu-plain",
+        name: "VPS/Ubuntu"
     },
     {
         iconName: "devicon-docker-plain",
