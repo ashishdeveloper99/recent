@@ -178,7 +178,7 @@ const devIcons = [
         name: "PHP"
     },
     {
-        iconName: "devicon-html5-plain",
+        iconName: "devicon-html5-p`lain",
         name: "HTML"
     },
     {
@@ -204,10 +204,6 @@ const devIcons = [
     {
         iconName: "devicon-react-plain",
         name: "React"
-    },
-    {
-        iconName: "devicon-vuejs-plain",
-        name: "Vue"
     },
     {
         iconName: "devicon-git-plain",
