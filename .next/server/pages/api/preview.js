@@ -12,7 +12,7 @@ module.exports = require("cosmicjs");
 
 /***/ }),
 
-/***/ 9095:
+/***/ 4464:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 // ESM COMPAT FLAG
@@ -135,7 +135,7 @@ async function preview(req, res) {
 var __webpack_require__ = require("../../webpack-api-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = (__webpack_exec__(9095));
+var __webpack_exports__ = (__webpack_exec__(4464));
 module.exports = __webpack_exports__;
 
 })();
