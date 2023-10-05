@@ -169,10 +169,7 @@ const devIcons = [
         iconName: "devicon-codeigniter-plain",
         name: "Codeigniter"
     },
-    {
-        iconName: "devicon-laravel-plain",
-        name: "Laravel"
-    },
+    // { iconName: 'devicon-laravel-plain', name: 'Laravel' },
     {
         iconName: "devicon-php-plain",
         name: "PHP"

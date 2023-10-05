@@ -81,13 +81,10 @@ const About = ({ preview  })=>{
                                             children: "I love solving problems!"
                                         }),
                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                            children: "My name is Ashish. I am interested in applying for the Junior Developer position or Interships.I believe that my passion and experience in the field would be a useful addition to your team."
+                                            children: "My name is Ashish. I am interested in applying for the Junior Developer position or Internship.I believe that my passion and experience in the field would be a useful addition to your team."
                                         }),
                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                             children: "I am certain my skills and qualifications will be of great use to your team.Should you decide to move forward with an interview, please reach out to me! I would be happy to answer any questions you may have and discuss how I can help your company. besides honing my skills as Web developer. nowadays I take lessons in Javascript, React technologies."
-                                        }),
-                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                            children: "I am open to relocating for the right job. However, I would appreciate the chance to discuss my experience and qualifications over the phone and prove that I am suitable for toyur company."
                                         }),
                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                             children: "Get in touch to create something awesome together!   "

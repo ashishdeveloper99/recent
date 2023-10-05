@@ -1,7 +1,7 @@
 export const devIcons = [
 
   { iconName: 'devicon-codeigniter-plain', name: 'Codeigniter' },
-  { iconName: 'devicon-laravel-plain', name: 'Laravel' },
+  // { iconName: 'devicon-laravel-plain', name: 'Laravel' },
   { iconName: 'devicon-php-plain', name: 'PHP' },
   { iconName: 'devicon-html5-p`lain', name: 'HTML' },
   { iconName: 'devicon-css3-plain', name: 'CSS' },

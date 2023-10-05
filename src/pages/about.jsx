@@ -32,12 +32,10 @@ const About = ({ preview }) => {
             <div className="flex-1 mt-12 md:mt-0 flex flex-col justify-start gap-y-8 pr-20">
               <p>I love solving problems!</p>
 
-<p>My name is Ashish. I am interested in applying for the Junior Developer position or Interships.I believe that my passion and experience in the field would be a useful addition to your team.</p>
+<p>My name is Ashish. I am interested in applying for the Junior Developer position or Internship.I believe that my passion and experience in the field would be a useful addition to your team.</p>
 <p>I am certain my skills and qualifications will be of great use to your team.Should you decide to move forward with an interview, please reach out to me! I would be happy to answer any questions you may have and discuss how I can help your company.
 besides honing my skills as Web developer. nowadays I take lessons in Javascript, React technologies.
 </p>
-<p>
-I am open to relocating for the right job. However, I would appreciate the chance to discuss my experience and qualifications over the phone and prove that I am suitable for toyur company.</p>
               <p>Get in touch to create something awesome together!   </p>
 
              
