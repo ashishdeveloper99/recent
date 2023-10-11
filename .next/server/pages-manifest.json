@@ -3,12 +3,12 @@
   "/_document": "pages/_document.js",
   "/404": "pages/404.html",
   "/api/exit-preview": "pages/api/exit-preview.js",
-  "/api/preview": "pages/api/preview.js",
   "/_error": "pages/_error.js",
+  "/api/preview": "pages/api/preview.js",
   "/about": "pages/about.js",
   "/": "pages/index.js",
   "/posts": "pages/posts.js",
-  "/works/[slug]": "pages/works/[slug].js",
+  "/posts/[slug]": "pages/posts/[slug].js",
   "/works": "pages/works.js",
-  "/posts/[slug]": "pages/posts/[slug].js"
+  "/works/[slug]": "pages/works/[slug].js"
 }
