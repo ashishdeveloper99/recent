@@ -5,30 +5,24 @@ exports.id = 820;
 exports.ids = [820];
 exports.modules = {
 
-/***/ 6734:
+/***/ 7345:
 /***/ ((module, exports, __webpack_require__) => {
 
 
 Object.defineProperty(exports, "__esModule", ({
     value: true
 }));
-Object.defineProperty(exports, "default", ({
-    enumerable: true,
-    get: function() {
-        return Error;
-    }
-}));
-const _interop_require_default = __webpack_require__(659);
-const _react = /*#__PURE__*/ _interop_require_default._(__webpack_require__(6689));
-const _head = /*#__PURE__*/ _interop_require_default._(__webpack_require__(7981));
+exports["default"] = void 0;
+var _interop_require_default = (__webpack_require__(2648)/* ["default"] */ .Z);
+var _react = _interop_require_default(__webpack_require__(6689));
+var _head = _interop_require_default(__webpack_require__(3121));
 const statusCodes = {
     400: "Bad Request",
     404: "This page could not be found",
     405: "Method Not Allowed",
     500: "Internal Server Error"
 };
-function _getInitialProps(param) {
-    let { res , err  } = param;
+function _getInitialProps({ res , err  }) {
     const statusCode = res && res.statusCode ? res.statusCode : err ? err.statusCode : 404;
     return {
         statusCode
@@ -36,8 +30,7 @@ function _getInitialProps(param) {
 }
 const styles = {
     error: {
-        // https://github.com/sindresorhus/modern-normalize/blob/main/modern-normalize.css#L38-L52
-        fontFamily: 'system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji"',
+        fontFamily: '-apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", "Fira Sans", Avenir, "Helvetica Neue", "Lucida Grande", sans-serif',
         height: "100vh",
         textAlign: "center",
         display: "flex",
@@ -47,49 +40,50 @@ const styles = {
     },
     desc: {
         display: "inline-block",
-        textAlign: "left"
+        textAlign: "left",
+        lineHeight: "49px",
+        height: "49px",
+        verticalAlign: "middle"
     },
     h1: {
         display: "inline-block",
-        margin: "0 20px 0 0",
-        paddingRight: 23,
-        fontSize: 24,
+        margin: 0,
+        marginRight: "20px",
+        padding: "0 23px 0 0",
+        fontSize: "24px",
         fontWeight: 500,
         verticalAlign: "top",
         lineHeight: "49px"
     },
     h2: {
-        fontSize: 14,
-        fontWeight: 400,
+        fontSize: "14px",
+        fontWeight: "normal",
         lineHeight: "49px",
-        margin: 0
+        margin: 0,
+        padding: 0
     }
 };
-class Error extends _react.default.Component {
+var _Component;
+class Error extends (_Component = _react.default.Component) {
     render() {
         const { statusCode , withDarkMode =true  } = this.props;
         const title = this.props.title || statusCodes[statusCode] || "An unexpected error has occurred";
         return /*#__PURE__*/ _react.default.createElement("div", {
             style: styles.error
-        }, /*#__PURE__*/ _react.default.createElement(_head.default, null, /*#__PURE__*/ _react.default.createElement("title", null, statusCode ? statusCode + ": " + title : "Application error: a client-side exception has occurred")), /*#__PURE__*/ _react.default.createElement("div", null, /*#__PURE__*/ _react.default.createElement("style", {
+        }, /*#__PURE__*/ _react.default.createElement(_head.default, null, /*#__PURE__*/ _react.default.createElement("title", null, statusCode ? `${statusCode}: ${title}` : "Application error: a client-side exception has occurred")), /*#__PURE__*/ _react.default.createElement("div", null, /*#__PURE__*/ _react.default.createElement("style", {
             dangerouslySetInnerHTML: {
-                /* CSS minified from
+                __html: `
                 body { margin: 0; color: #000; background: #fff; }
                 .next-error-h1 {
                   border-right: 1px solid rgba(0, 0, 0, .3);
                 }
 
-                ${
-                  withDarkMode
-                    ? `@media (prefers-color-scheme: dark) {
+                ${withDarkMode ? `@media (prefers-color-scheme: dark) {
                   body { color: #fff; background: #000; }
                   .next-error-h1 {
                     border-right: 1px solid rgba(255, 255, 255, .3);
                   }
-                }`
-                    : ''
-                }
-               */ __html: "body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}" + (withDarkMode ? "@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}" : "")
+                }` : ""}`
             }
         }), statusCode ? /*#__PURE__*/ _react.default.createElement("h1", {
             className: "next-error-h1",
@@ -101,15 +95,10 @@ class Error extends _react.default.Component {
         }, this.props.title || statusCode ? title : /*#__PURE__*/ _react.default.createElement(_react.default.Fragment, null, "Application error: a client-side exception has occurred (see the browser console for more information)"), "."))));
     }
 }
-(()=>{
-    Error.displayName = "ErrorPage";
-})();
-(()=>{
-    Error.getInitialProps = _getInitialProps;
-})();
-(()=>{
-    Error.origGetInitialProps = _getInitialProps;
-})();
+Error.displayName = "ErrorPage";
+Error.getInitialProps = _getInitialProps;
+Error.origGetInitialProps = _getInitialProps;
+exports["default"] = Error;
 if ((typeof exports.default === "function" || typeof exports.default === "object" && exports.default !== null) && typeof exports.default.__esModule === "undefined") {
     Object.defineProperty(exports.default, "__esModule", {
         value: true
@@ -161,19 +150,6 @@ module.exports = require("next/dist/shared/lib/utils/warn-once.js");
 
 module.exports = require("react");
 
-/***/ }),
-
-/***/ 659:
-/***/ ((__unused_webpack_module, exports) => {
-
-
-
-exports._ = exports._interop_require_default = _interop_require_default;
-function _interop_require_default(obj) {
-    return obj && obj.__esModule ? obj : { default: obj };
-}
-
-
 /***/ })
 
 };
@@ -183,7 +159,7 @@ function _interop_require_default(obj) {
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [981], () => (__webpack_exec__(6734)));
+var __webpack_exports__ = __webpack_require__.X(0, [210,121], () => (__webpack_exec__(7345)));
 module.exports = __webpack_exports__;
 
 })();
